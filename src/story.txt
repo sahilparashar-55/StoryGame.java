@@ -1,0 +1,11 @@
+You are standing at a crossroads. On the left, you see a path that leads to a river. On the right, you see a path that leads to a dark forest.
+1. Take the path on the left
+2. Take the path on the right
+
+You have reached the river. There is a small boat tied to a tree.
+1. Cross the river using the boat
+2. Go back to the crossroads
+
+You have entered the dark forest. You see a monster in the distance.
+1. Fight the monster
+2. Run away
